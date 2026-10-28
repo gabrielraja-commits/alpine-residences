@@ -1,0 +1,17 @@
+ALPINE RESIDENCES – WEBSITE FÜR WINDOWS
+Stand: 27. Oktober 2026
+
+1. Die ZIP-Datei mit der rechten Maustaste anklicken und "Alle extrahieren" wählen.
+2. Den entpackten Ordner Alpine-Residences-Website öffnen.
+3. index.html doppelklicken und mit Edge, Chrome oder Firefox öffnen.
+
+NEU
+Alpine Produkte: personalisierter digitaler Gästeguide für CHF 149.95.
+Die neue Produktseite direkt über alpine-produkte.html öffnen.
+Die Beispielansicht Bergnest über gaesteguide-demo.html öffnen.
+Die Schweizerkarte und Gästeguide-Demo funktionieren ohne Installation.
+
+HINWEISE
+Die Dateien und den assets-Ordner zusammenlassen. Externe Landschaftsbilder benötigen Internet. Anfragen öffnen dein eingerichtetes E-Mail-Programm und werden erst von dir versendet.
+Bergnest ist eine erfundene Demo ohne echte Adresse oder Zugangsdaten.
+Die Website ist weiterhin eine Arbeitsfassung. Echte Wohnungsfotos, Buchungslinks und die bestehenden rechtlichen Angaben sind noch zu vervollständigen.
